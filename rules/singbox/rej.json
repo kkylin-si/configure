@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "play.googleapis.com"
+      ],
+      "domain_suffix": [
+        "office.ad1.ru",
+        "cms.ad2click.nl"
+      ]
+    }
+  ]
+}
