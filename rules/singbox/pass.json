@@ -6,7 +6,9 @@
         "poe.com"
       ],
       "domain_suffix": [
-        "datadoghq.com"
+        "datadoghq.com",
+        "supademo.com",
+        "withgoogle.com"
       ]
     }
   ]
